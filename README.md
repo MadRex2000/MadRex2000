@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MadRex2000&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MadRex2000&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadRex2000&theme=monokai)
 <!--
 **MadRex2000/MadRex2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
